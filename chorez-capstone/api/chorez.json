@@ -1,0 +1,58 @@
+{
+  "uncompletedchorez": [
+    {
+      "id": 1,
+      "type": "Out",
+      "name": "Pressure Wash",
+      "description": "Pressure Wash Driveway"
+    },
+    {
+      "id": 2,
+      "type": "Outside",
+      "name": "Pressure Wash",
+      "description": "Pressure Wash Driveway"
+    },
+    {
+      "id": 3,
+      "type": "Outside",
+      "name": "Pressure Wash",
+      "description": "Pressure Wash Sidewalk"
+    },
+    {
+      "id": 4,
+      "type": "Outside",
+      "name": "Wash Car",
+      "description": "Wash The Car"
+    },
+    {
+      "id": 5,
+      "type": "Outside",
+      "name": "Yard Work",
+      "description": "Mow the Yard"
+    },
+    {
+      "id": 6,
+      "type": "Inside",
+      "name": "Vacuuming",
+      "description": "Vacuum All Carpet"
+    },
+    {
+      "id": 7,
+      "type": "Inside",
+      "name": "Sweep",
+      "description": "Sweep all Hardwood And Tile Floors"
+    },
+    {
+      "id": 8,
+      "type": "Inside",
+      "name": "Bathroom",
+      "description": "Clean All Bathrooms"
+    },
+    {
+      "type": "Outside",
+      "name": "get mail",
+      "description": "open the mailbox",
+      "id": 9
+    }
+  ]
+}
